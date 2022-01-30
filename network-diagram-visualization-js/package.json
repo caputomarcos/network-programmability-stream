@@ -15,7 +15,7 @@
     "vue": "^2.6.11",
     "vue-d3-network": "^0.1.28",
     "vue-router": "^3.1.5",
-    "vue-visjs": "^0.3.0"
+    "vue-visjs": "^0.6.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.2.0",
